@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:4800/1*yZ41P3YdMYMiyFPAPrzyGw.gif">
 - 🌱 I’m currently learning **C , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/h01nait](https://github.com/h01nait)
+- 👨‍💻 All of my projects are available at [GIT](https://github.com/h01nait)
 
 - 📫 How to reach me **h01nait@gmail.com**
 
