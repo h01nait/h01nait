@@ -27,6 +27,6 @@
 
 <h3 align="center"> <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=h01nait&show_icons=true&locale=en&layout=compact" alt="h01nait" /></p></h3>
 
-<h3 align="center"> <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=h01nait&show_icons=true&locale=en" alt="h01nait" /></p></h3>
+<h2 align="left"> <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=h01nait&show_icons=true&locale=en" alt="h01nait" /></p></h2>
 
-<h3 align="center"> <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=h01nait&" alt="h01nait" /></p></h3>
+<h2 align="right"> <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=h01nait&" alt="h01nait" /></p></h2>
