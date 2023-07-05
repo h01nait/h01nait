@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C , Python**
 
-- 👨‍💻 All of my projects are available at [HERE]([https://github.com/h01nait?tab=projects])
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/h01nait/projects)
 
 - 📫 How to reach me **h01nait@gmail.com**
 
