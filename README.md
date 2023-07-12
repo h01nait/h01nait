@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Naitsi</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
-<img align="right"  src="https://raw.githubusercontent.com/h01nait/h01nait/main/wired-outline-680-it-developer%20(1).gif">
+<img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/h01nait/h01nait/main/wired-outline-680-it-developer%20(1).gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h01nait&label=Profile%20views&color=0e75b6&style=flat" alt="h01nait" /> </p>
