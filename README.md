@@ -31,3 +31,8 @@
 <h3 align="center"> <p><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=h01nait&show_icons=true&locale=en&layout=compact" alt="h01nait" /></p></h3>
 <h3 align="center"> <p>&nbsp;<img width="550" src="https://github-readme-stats.vercel.app/api?username=h01nait&show_icons=true&locale=en" alt="h01nait" /></p></h3></h3>
 <h3 align="center"> <p><img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=h01nait&" alt="h01nait" /></p></h3>
+
+
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/) 
+
